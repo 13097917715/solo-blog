@@ -1,4 +1,4 @@
-<p align="center"><img alt="~清风徐来~" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="~清风徐来~" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575818432602&di=58e243cbd770f9a1dc5ffc7e352bd6df&imgtype=0&src=http%3A%2F%2Fku.90sjimg.com%2Felement_origin_min_pic%2F01%2F54%2F84%2F44574739399bd41.jpg"></p><h2 align="center">
 ~清风徐来~
 </h2>
 
@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://chengge.club/my-github-repos)
+* [【windows下mysql环境配置】](http://chengge.club/articles/2019/12/08/1575807376622.html)
+* [【python学生信息管理系统】](http://chengge.club/articles/2019/12/07/1575727732738.html)
 * [【python课堂笔记】](http://chengge.club/articles/2019/12/02/1575279277084.html)
 * [【基于粤嵌GEC6818开发板的--滑动相册功能】](http://chengge.club/articles/2019/12/02/1575267130295.html)
 * [【C语言基础笔记】](http://chengge.club/articles/2019/12/01/1575204283793.html)
