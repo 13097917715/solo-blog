@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [【linux内核学习笔记1】](http://chengge.club/articles/2019/12/10/1575941272613.html)
 * [我在 GitHub 上的开源项目](http://chengge.club/my-github-repos)
 * [【windows下mysql环境配置】](http://chengge.club/articles/2019/12/08/1575807376622.html)
 * [【python学生信息管理系统】](http://chengge.club/articles/2019/12/07/1575727732738.html)
