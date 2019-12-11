@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [【python课堂笔记--字符串】](http://chengge.club/articles/2019/12/10/1575978394942.html)
 * [【linux内核学习笔记1】](http://chengge.club/articles/2019/12/10/1575941272613.html)
 * [我在 GitHub 上的开源项目](http://chengge.club/my-github-repos)
 * [【windows下mysql环境配置】](http://chengge.club/articles/2019/12/08/1575807376622.html)
